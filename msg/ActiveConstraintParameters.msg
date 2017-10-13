@@ -1,5 +1,6 @@
 bool active
 uint8 method
+float64 activation
 float64 max_force
 float64 max_torque
 float64 linear_elastic_coeff
